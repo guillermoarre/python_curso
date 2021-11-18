@@ -21,6 +21,6 @@ elif num1 % 2 != 0:
 else:
     print("Invalid data")
 
-
+ 
 """pass""" 
 """"Habilitar el else, pausar esa parte"""
