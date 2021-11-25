@@ -1,8 +1,6 @@
 #piedra, papel o tijera
 import random
-rock = '''
-   
 
-'''
-
-game = []
+game = ['rock','scisors','sheet']
+jugado = random.choice(game)
+print(jugado)
